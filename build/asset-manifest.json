@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e0d8f84.css",
+    "main.js": "/static/js/main.e3242495.js",
+    "static/media/wallet.gif": "/static/media/wallet.94f7c409c2c532ebd04d.gif",
+    "static/media/credit-card.gif": "/static/media/credit-card.7da19942921dc66a5c78.gif",
+    "static/media/Logo.png": "/static/media/Logo.67a0840d2dbdf6f897e9.png",
+    "static/media/card.png": "/static/media/card.ed6073062b792f34d0af.png",
+    "static/media/avatar2.jpg": "/static/media/avatar2.fb42b26c9d4f094b3be0.jpg",
+    "static/media/cart.png": "/static/media/cart.d4d2c49cdfe953211e7b.png",
+    "static/media/happyDog3.png": "/static/media/happyDog3.9067455da576321a784e.png",
+    "static/media/animal1.png": "/static/media/animal1.04175a036f2d3d4f3dc1.png",
+    "static/media/happyDog1.png": "/static/media/happyDog1.c49db73ff5433008d09a.png",
+    "static/media/happyDog2.png": "/static/media/happyDog2.ed0d4276fd6a51af3870.png",
+    "static/media/happyDog4.png": "/static/media/happyDog4.9dee88371d2e4a576241.png",
+    "static/media/animal2.png": "/static/media/animal2.bdc0496b5e5a3ccf2718.png",
+    "static/media/BrandName.png": "/static/media/BrandName.24faaf1cafc83672a435.png",
+    "static/media/animal3.png": "/static/media/animal3.7b098b4c00e4b08efa0f.png",
+    "static/media/cash.png": "/static/media/cash.d85a759dc71b2ca984c7.png",
+    "static/media/no_orders2.png": "/static/media/no_orders2.8d23a79ddba82deca47b.png",
+    "index.html": "/index.html",
+    "main.3e0d8f84.css.map": "/static/css/main.3e0d8f84.css.map",
+    "main.e3242495.js.map": "/static/js/main.e3242495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0d8f84.css",
+    "static/js/main.e3242495.js"
+  ]
+}
